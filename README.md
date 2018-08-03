@@ -1,2 +1,2 @@
 # scaffold-from-db-js
-scaffolding with RDB schema definitions
+scaffolding node-excpress-application with RDB schema definitions
